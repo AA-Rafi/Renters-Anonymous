@@ -1,0 +1,29 @@
+Population and Renting
+Is there a linear relationship between population and renting in Ontario in the last 30 years?
+o  Birthrate - How does the birthrate affect the increase/decrease in renting homes?
+o  Immigration - How has immigration affected renting factors? Are immigrants renting more or purchasing homes?
+o Family Structure - Looking a divorce, separation, marriage... what type of family renting what? Does divorce increase the number or renters? Who is renting?
+o  Financials - Income versus renting, and how that has changed over the last 30 years.
+Things to think about:
+-         Population income changes
+-         Pricing of housing increased/changed
+-         Why is the price of renting so low compared to buying a home?
+-         Comparing rent rates in the last 50 years
+-         How has renting changed over the years?
+-         What factors are affecting renting over the years?
+Roles
+Data Mining (Everyone)
+finding the data sets for each topic (>1000 datapoints)
+Data Cleanup (???)
+cleaning the data using Pandas
+Coding (Ricky & Ankit)
+making the data usable for analysis
+pulling from CSV files, JSON, etc.
+need to use APIs
+Data Visualization (Evan)
+putting the data into graphs
+Data Analysis (Rafi & Eleshia)
+analyzing the data to answer our main question
+Final Touches
+putting together the PowerPoint
+editing and finalizing the code
