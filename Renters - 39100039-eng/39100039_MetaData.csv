@@ -1,0 +1,228 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions",Universe,"Variable List"
+"Housing affordability (1995 income), by occupancy status, Canada, provinces, territories and health regions, 1996",39100039,109-0003,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3910003901",1;2;3;4;5;6;7;15,"ARCHIVED -  a cube publicly available but no longer being updated","Every 5 years",1996-01-01,1996-01-01,2,,
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Correction Notes","Dimension Definitions"
+1,Geography,7,,
+2,"Occupancy status",2;3;4;5;6;14,,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Correction Notes","Member Geo Attribute Keys","Member Definitions"
+1,Canada,[00],1,,,,,,
+1,"Newfoundland and Labrador",[10],2,1,,,,,
+1,"Health and Community Services St. John's Region, Newfoundland and Labrador",[1001],3,2,,,,,
+1,"Health and Community Services Eastern Region, Newfoundland and Labrador",[1002],4,2,,,,,
+1,"Health and Community Services Central Region, Newfoundland and Labrador",[1003],5,2,,,,,
+1,"Health and Community Services Western Region, Newfoundland and Labrador",[1004],6,2,,,,,
+1,"Grenfell Regional Health Services Board, Newfoundland and Labrador",[1005],7,2,,,,,
+1,"Health Labrador Corporation, Newfoundland and Labrador",[1006],8,2,,,,,
+1,"Prince Edward Island",[11],9,1,,8;9,,,
+1,"Urban Health Region, Prince Edward Island",[1101],10,9,,,,,
+1,"Rural Health Region, Prince Edward Island",[1102],11,9,,,,,
+1,"Nova Scotia",[12],12,1,,10,,,
+1,"Zone 1, Nova Scotia",[1201],13,12,,,,,
+1,"Zone 2, Nova Scotia",[1202],14,12,,,,,
+1,"Zone 3, Nova Scotia",[1203],15,12,,,,,
+1,"Zone 4, Nova Scotia",[1204],16,12,,,,,
+1,"Zone 5, Nova Scotia",[1205],17,12,,,,,
+1,"Zone 6, Nova Scotia",[1206],18,12,,,,,
+1,"New Brunswick",[13],19,1,,,,,
+1,"Region 1, New Brunswick",[1301],20,19,,,,,
+1,"Region 2, New Brunswick",[1302],21,19,,,,,
+1,"Region 3, New Brunswick",[1303],22,19,,,,,
+1,"Region 4, New Brunswick",[1304],23,19,,,,,
+1,"Region 5, New Brunswick",[1305],24,19,,,,,
+1,"Region 6, New Brunswick",[1306],25,19,,,,,
+1,"Region 7, New Brunswick",[1307],26,19,,,,,
+1,Québec,[24],27,1,,,,,
+1,"Région du Bas-Saint-Laurent, Québec",[2401],28,27,,,,,
+1,"Région du Saguenay-Lac-Saint-Jean, Québec",[2402],29,27,,,,,
+1,"Région de Québec, Québec",[2403],30,27,,,,,
+1,"Région de la Mauricie et Centre-du-Québec, Québec",[2404],31,27,,,,,
+1,"Région de l'Estrie, Québec",[2405],32,27,,,,,
+1,"Région de Montréal-Centre, Québec",[2406],33,27,,,,,
+1,"Région de l'Outaouais, Québec",[2407],34,27,,,,,
+1,"Région de l'Abitibi-Témiscamingue, Québec",[2408],35,27,,,,,
+1,"Région de la Côte-Nord, Québec",[2409],36,27,,,,,
+1,"Région du Nord-du-Québec, Québec",[2410],37,27,,,,,
+1,"Région de la Gaspésie-Îles-de-la-Madeleine, Québec",[2411],38,27,,,,,
+1,"Région de la Chaudière-Appalaches, Québec",[2412],39,27,,,,,
+1,"Région de Laval, Québec",[2413],40,27,,,,,
+1,"Région de Lanaudière, Québec",[2414],41,27,,,,,
+1,"Région des Laurentides, Québec",[2415],42,27,,,,,
+1,"Région de la Montérégie, Québec",[2416],43,27,,,,,
+1,"Région du Nunavik, Québec",[2417],44,27,,,,,
+1,"Région des Terres-Cries-de-la-Baie-James, Québec",[2418],45,27,,,,,
+1,"Ontario by District Health Council",[35],46,1,,11,,,
+1,"Champlain District Health Council, Ontario",[3501],47,46,,,,,
+1,"Quinte-Kingston and Rideau DHC, Ontario",[3502],48,46,,,,,
+1,"Durham-Haliburton-Kawartha and Pine Ridge DHC, Ontario",[3503],49,46,,,,,
+1,"Toronto District Health Council, Ontario",[3504],50,46,,,,,
+1,"Simcoe-York District Health Council, Ontario",[3505],51,46,,,,,
+1,"Halton-Peel District Health Council, Ontario",[3506],52,46,,,,,
+1,"Waterloo-Wellington-Dufferin DHC, Ontario",[3507],53,46,,,,,
+1,"Hamilton-Wentworth DHC, Ontario",[3508],54,46,,,,,
+1,"Niagara District Health Council, Ontario",[3509],55,46,,,,,
+1,"Grand River DHC, Ontario",[3510],56,46,,,,,
+1,"Thames Valley DHC, Ontario",[3511],57,46,,,,,
+1,"Essex-Kent and Lambton DHC, Ontario",[3512],58,46,,,,,
+1,"Grey-Bruce-Huron and Perth DHC, Ontario",[3513],59,46,,,,,
+1,"Muskoka-Nipissing and Parry Sound DHC, Ontario",[3514],60,46,,,,,
+1,"Algoma-Cochrane-Manitoulin and Sudbury DHC, Ontario",[3515],61,46,,,,,
+1,"Northwestern Ontario DHC, Ontario",[3516],62,46,,,,,
+1,"Ontario by Health Unit",[35],63,1,,11,,,
+1,"Algoma Public Health Unit, Ontario",[3526],64,63,,,,,
+1,"Brant Public Health Unit, Ontario",[3527],65,63,,,,,
+1,"Durham Public Health Unit, Ontario",[3530],66,63,,,,,
+1,"Elgin-St Thomas Public Health Unit, Ontario",[3531],67,63,,,,,
+1,"Bruce-Grey-Owen Sound Public Health Unit, Ontario",[3533],68,63,,,,,
+1,"Haldimand-Norfolk Public Health Unit, Ontario",[3534],69,63,,,,,
+1,"Haliburton-Kawartha-Pine Ridge Public Health Unit, Ontario",[3535],70,63,,,,,
+1,"Halton Public Health Unit, Ontario",[3536],71,63,,,,,
+1,"Hamilton Public Health Unit, Ontario",[3537],72,63,,,,,
+1,"Hastings and Prince Edward Public Health Unit, Ontario",[3538],73,63,,,,,
+1,"Huron Public Health Unit, Ontario",[3539],74,63,,,,,
+1,"Kent-Chatham Public Health Unit, Ontario",[3540],75,63,,,,,
+1,"Kingston-Frontenac-Lennox and Addington Public Health Unit, Ontario",[3541],76,63,,,,,
+1,"Lambton Public Health Unit, Ontario",[3542],77,63,,,,,
+1,"Leeds-Grenville-Lanark Public Health Unit, Ontario",[3543],78,63,,,,,
+1,"Middlesex-London Public Health Unit, Ontario",[3544],79,63,,,,,
+1,"Muskoka-Parry Sound Public Health Unit, Ontario",[3545],80,63,,,,,
+1,"Niagara Public Health Unit, Ontario",[3546],81,63,,,,,
+1,"North Bay Public Health Unit, Ontario",[3547],82,63,,,,,
+1,"Northwestern Public Health Unit, Ontario",[3549],83,63,,,,,
+1,"Ottawa Public Health Unit, Ontario",[3551],84,63,,,,,
+1,"Oxford Public Health Unit, Ontario",[3552],85,63,,,,,
+1,"Peel Public Health Unit, Ontario",[3553],86,63,,,,,
+1,"Perth Public Health Unit, Ontario",[3554],87,63,,,,,
+1,"Peterborough Public Health Unit, Ontario",[3555],88,63,,,,,
+1,"Porcupine Public Health Unit, Ontario",[3556],89,63,,,,,
+1,"Renfrew Public Health Unit, Ontario",[3557],90,63,,,,,
+1,"Eastern Ontario Public Health Unit, Ontario",[3558],91,63,,,,,
+1,"Simcoe Public Health Unit, Ontario",[3560],92,63,,,,,
+1,"Sudbury Public Health Unit, Ontario",[3561],93,63,,,,,
+1,"Thunder Bay Public Health Unit, Ontario",[3562],94,63,,,,,
+1,"Timiskaming Public Health Unit, Ontario",[3563],95,63,,,,,
+1,"Waterloo Public Health Unit, Ontario",[3565],96,63,,,,,
+1,"Wellington-Dufferin-Guelph Public Health Unit, Ontario",[3566],97,63,,,,,
+1,"Windsor-Essex Public Health Unit, Ontario",[3568],98,63,,,,,
+1,"York Public Health Unit, Ontario",[3570],99,63,,,,,
+1,"Toronto Public Health Unit, Ontario",[3595],100,63,,,,,
+1,Manitoba,[46],101,1,,,,,
+1,"Winnipeg, Manitoba",[4610],102,101,,,,,
+1,"Brandon, Manitoba",[4615],103,101,,,,,
+1,"North Eastman, Manitoba",[4620],104,101,,,,,
+1,"South Eastman, Manitoba",[4625],105,101,,,,,
+1,"Interlake, Manitoba",[4630],106,101,,,,,
+1,"Central, Manitoba",[4640],107,101,,,,,
+1,"Marquette, Manitoba",[4650],108,101,,,,,
+1,"South Westman, Manitoba",[4655],109,101,,,,,
+1,"Parkland, Manitoba",[4660],110,101,,,,,
+1,"Norman, Manitoba",[4670],111,101,,,,,
+1,"Burntwood and Churchill, Manitoba","[4680, 4690]",112,101,,,,,
+1,"Burntwood, Manitoba",[4680],113,112,,,,,
+1,"Churchill, Manitoba",[4690],114,112,,,,,
+1,Saskatchewan,[47],115,1,,12,,,
+1,"Weyburn (A) Service Area, Saskatchewan",[4701],116,115,,,,,
+1,"Moose Jaw (B) Service Area, Saskatchewan",[4702],117,115,,,,,
+1,"Swift Current (C) Service Area, Saskatchewan",[4703],118,115,,,,,
+1,"Regina (D) Service Area, Saskatchewan",[4704],119,115,,,,,
+1,"Yorkton (E) Service Area, Saskatchewan",[4705],120,115,,,,,
+1,"Saskatoon (F) Service Area, Saskatchewan",[4706],121,115,,,,,
+1,"Rosetown (G) Service Area, Saskatchewan",[4707],122,115,,,,,
+1,"Melfort (H) Service Area, Saskatchewan",[4708],123,115,,,,,
+1,"Prince Albert (I) Service Area, Saskatchewan",[4709],124,115,,,,,
+1,"North Battleford (J) Service Area, Saskatchewan",[4710],125,115,,,,,
+1,"Northern Health Services Branch (K), Saskatchewan",[4711],126,115,,,,,
+1,Alberta,[48],127,1,,,,,
+1,"Chinook Regional Health Authority, Alberta",[4801],128,127,,,,,
+1,"Palliser Health Authority, Alberta",[4802],129,127,,,,,
+1,"Headwaters Health Authority, Alberta",[4803],130,127,,,,,
+1,"Calgary Regional Health Authority, Alberta",[4804],131,127,,,,,
+1,"Health Authority #5, Alberta",[4805],132,127,,,,,
+1,"David Thompson Regional Health Authority, Alberta",[4806],133,127,,,,,
+1,"East Central Health Authority, Alberta",[4807],134,127,,,,,
+1,"Westview Regional Health Authority, Alberta",[4808],135,127,,,,,
+1,"Crossroads Regional Health Authority, Alberta",[4809],136,127,,,,,
+1,"Capital Health Authority, Alberta",[4810],137,127,,,,,
+1,"Aspen Regional Health Authority, Alberta",[4811],138,127,,,,,
+1,"Lakeland Regional Health Authority, Alberta",[4812],139,127,,,,,
+1,"Mistahia Regional Health Authority, Alberta",[4813],140,127,,,,,
+1,"Peace Regional Health Authority, Alberta",[4814],141,127,,,,,
+1,"Keeweetinok Lakes Regional Health Authority, Alberta",[4815],142,127,,,,,
+1,"Northern Lights Regional Health Authority, Alberta",[4816],143,127,,,,,
+1,"Northwestern Regional Health Authority, Alberta",[4817],144,127,,,,,
+1,"British Columbia",[59],145,1,,,,,
+1,"East Kootenay, British Columbia",[5901],146,145,,,,,
+1,"West Kootenay-Boundary, British Columbia",[5902],147,145,,,,,
+1,"North Okanagan, British Columbia",[5903],148,145,,,,,
+1,"South Okanagan Similkameen, British Columbia",[5904],149,145,,,,,
+1,"Thompson, British Columbia",[5905],150,145,,,,,
+1,"Fraser Valley, British Columbia",[5906],151,145,,,,,
+1,"South Fraser Valley, British Columbia",[5907],152,145,,,,,
+1,"Burnaby/Simon Fraser, British Columbia",[5922],153,145,,,,,
+1,"Burnaby, British Columbia",[5917],154,153,,,,,
+1,"Simon Fraser, British Columbia",[5908],155,153,,,,,
+1,"Coast Garibaldi, British Columbia",[5909],156,145,,,,,
+1,"Central Vancouver Island, British Columbia",[5910],157,145,,,,,
+1,"Upper Island/Central Coast, British Columbia",[5911],158,145,,,,,
+1,"Cariboo, British Columbia",[5912],159,145,,,,,
+1,"North West, British Columbia",[5913],160,145,,,,,
+1,"Peace Liard, British Columbia",[5914],161,145,,,,,
+1,"Northern Interior, British Columbia",[5915],162,145,,,,,
+1,"Vancouver/Richmond, British Columbia",[5921],163,145,,,,,
+1,"Vancouver, British Columbia",[5916],164,163,,,,,
+1,"Richmond, British Columbia",[5919],165,163,,,,,
+1,"North Shore, British Columbia",[5918],166,145,,,,,
+1,"Capital, British Columbia",[5920],167,145,,,,,
+1,Yukon,[60],168,1,,,,,
+1,Yukon,[6001],169,168,,,,,
+1,"Northwest Territories",[61],170,1,,13,,,
+1,"Northwest Territories",[6101],171,170,,,,,
+1,Nunavut,[62],172,1,,13,,,
+1,Nunavut,[6201],173,172,,,,,
+2,"Total, households",,1,,,,,,
+2,Renters,,2,1,,,,,
+2,Owners,,3,1,,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3901,"Census of Population"
+
+"Subject Code","Subject Name"
+39,"Families and households"
+
+"Note ID",Note
+1,"Source: Statistics Canada, 1996 Census (20% sample)"
+2,"Households (renters, owners and total) spending 30% or more of total household income on shelter expenses."
+3,"Shelter expenses include payments for electricity, oil, gas, coal, wood or other fuels, water and other municipal services."
+4,"Shelter expenses include monthly mortgage payments, property taxes, condominium fees and rent."
+5,"Housing affordability excludes Band housing on Indian reserves."
+6,"Housing affordability excludes farm dwellings, collective households (e.g., rooming houses, nursing homes, military camps) and households reporting loss of or no income."
+7,"Health regions are defined by provincial governments as the areas of responsibility for regional health boards (i.e., legislated) or as regions of interest to health care authorities."
+8,"In Prince Edward Island, the two health regions divide the province into urban and rural components."
+9,"Prince Edward Island has defined these health regions for statistical purposes only; they bear no resemblance to the boundaries of the five actual administrative health regions."
+10,"In Nova Scotia, health regions are known as ""health zones"" and relate to the province's administrative health region boundaries."
+11,"In Ontario, Public health units (PHU) administer health promotion and disease prevention programs, and  District health councils (DHC) are advisory, health planning organizations."
+12,"In Saskatchewan, ""service areas"" have been created from groupings of the 33 health districts."
+13,"Nunavut and the Northwest Territories (excluding Nunavut) came into existence on April 1, 1999. To facilitate comparisons, data presented in this table for the Northwest Territories reflect the current boundaries, showing the Northwest Territories and Nunavut as separate regions."
+14,"The following standard symbols are used in Statistics Canada publications: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+15,"The table (109-0003) was archived. The data now appear in profile (109-0200)."
+
+"Dimension ID","Member ID","Attribute Key",Title,Label,"Long Label",Value
+
+
