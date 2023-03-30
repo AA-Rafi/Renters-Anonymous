@@ -1,0 +1,94 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions",Universe,"Variable List"
+"Average and median total income of husband-wife families",11100146,202-0105,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110014601",1;2;9,"ARCHIVED -  a cube publicly available but no longer being updated",Annual,1976-01-01,2011-01-01,3,,
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Correction Notes","Dimension Definitions"
+1,Geography,,,
+2,Statistics,,,
+3,"Husband-wife families",6,,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Correction Notes","Member Geo Attribute Keys","Member Definitions"
+1,Canada,,1,,,,,,
+1,"Atlantic provinces",,2,1,,,,,
+1,"Newfoundland and Labrador",,3,2,,,,,
+1,"Prince Edward Island",,4,2,,,,,
+1,"Nova Scotia",,5,2,,,,,
+1,"New Brunswick",,6,2,,,,,
+1,Quebec,,7,1,,,,,
+1,Ontario,,8,1,,,,,
+1,"Prairie provinces",,9,1,,,,,
+1,Manitoba,,10,9,,,,,
+1,Saskatchewan,,11,9,,,,,
+1,Alberta,,12,9,,,,,
+1,"British Columbia",,13,1,,,,,
+1,"Halifax, Nova Scotia",[12205],14,29,,,,,
+1,"Québec, Quebec",[24421],15,29,,,,,
+1,"Montréal, Quebec",[24462],16,29,,,,,
+1,"Ottawa-Gatineau, Ontario/Quebec","[24505, 35505]",17,29,,3,,,
+1,"Toronto, Ontario",[35535],18,29,,,,,
+1,"Hamilton, Ontario",[35537],19,29,,4,,,
+1,"St. Catharines-Niagara, Ontario",[35539],20,29,,,,,
+1,"Kitchener-Cambridge-Waterloo, Ontario",[35541],21,29,,5,,,
+1,"London, Ontario",[35555],22,29,,,,,
+1,"Windsor, Ontario",[35559],23,29,,,,,
+1,"Winnipeg, Manitoba",[46602],24,29,,,,,
+1,"Calgary, Alberta",[48825],25,29,,,,,
+1,"Edmonton, Alberta",[48835],26,29,,,,,
+1,"Vancouver, British Columbia",[59933],27,29,,,,,
+1,"Victoria, British Columbia",[59935],28,29,,,,,
+1,"Total selected census metropolitan areas",,29,,,,,,
+1,"All other non-selected areas",,30,,,,,,
+1,"St. John's, Newfoundland and Labrador",[10001],31,29,,8,,,
+1,"Sherbrooke, Quebec",[24433],32,29,,8,,,
+1,"Oshawa, Ontario",[35532],33,29,,8,,,
+1,"Regina, Saskatchewan",[47705],34,29,,8,,,
+1,"Saskatoon, Saskatchewan",[47725],35,29,,8,,,
+2,"Percentage of husband-wife families",,1,,,,,,
+2,"Number of husband-wife families",,2,,,,,,
+2,"Average total family income",,3,,,,,,
+2,"Median total family income",,4,,,,,,
+3,"All husband-wife families",,1,,,,,,
+3,"Total dual-earner families",,2,1,,7,,,
+3,"Dual-earner families, wife earned more than husband",,3,2,,,,,
+3,"Dual-earner families, wife earned less than husband",,4,2,,,,,
+3,"Total single-earner families",,5,1,,,,,
+3,"Single-earner families, husband sole earner",,6,5,,,,,
+3,"Single-earner families, wife sole earner",,7,5,,,,,
+3,"Neither spouse had earnings",,8,1,,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3889,"Survey of Labour and Income Dynamics"
+
+"Subject Code","Subject Name"
+11,"Income, pensions, spending and wealth"
+
+"Note ID",Note
+1,"Source: Income Statistics Division, Statistics Canada"
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (CV greater than or equal to 16%)."
+3,"Formerly Ottawa-Hull."
+4,"Formerly Hamilton-Burlington."
+5,"Formerly Kitchener."
+6,"Refers to a male-female married or common-law couple where at least one of the husband or wife earns an income."
+7,"Includes families where spouses had equal earnings."
+8,"Data for this census metropolitan area are available only from 1998."
+9,"Selected income time series from CANSIM 202* tables are now available in CANSIM 206* tables."
+
+"Dimension ID","Member ID","Attribute Key",Title,Label,"Long Label",Value
+
+
