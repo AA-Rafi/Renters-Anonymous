@@ -1,0 +1,166 @@
+Location,Occupancy status,Unit Of Measure,VALUE
+Ontario by District Health Council,"Total, households",Percent,28.0
+Ontario by District Health Council,Renters,Percent,44.2
+Ontario by District Health Council,Owners,Percent,18.9
+"Champlain District Health Council, Ontario","Total, households",Percent,25.9
+"Champlain District Health Council, Ontario",Renters,Percent,42.2
+"Champlain District Health Council, Ontario",Owners,Percent,15.3
+"Quinte-Kingston and Rideau DHC, Ontario","Total, households",Percent,26.4
+"Quinte-Kingston and Rideau DHC, Ontario",Renters,Percent,47.6
+"Quinte-Kingston and Rideau DHC, Ontario",Owners,Percent,16.7
+"Durham-Haliburton-Kawartha and Pine Ridge DHC, Ontario","Total, households",Percent,26.8
+"Durham-Haliburton-Kawartha and Pine Ridge DHC, Ontario",Renters,Percent,46.6
+"Durham-Haliburton-Kawartha and Pine Ridge DHC, Ontario",Owners,Percent,20.3
+"Toronto District Health Council, Ontario","Total, households",Percent,34.7
+"Toronto District Health Council, Ontario",Renters,Percent,44.8
+"Toronto District Health Council, Ontario",Owners,Percent,23.4
+"Simcoe-York District Health Council, Ontario","Total, households",Percent,28.2
+"Simcoe-York District Health Council, Ontario",Renters,Percent,44.7
+"Simcoe-York District Health Council, Ontario",Owners,Percent,23.7
+"Halton-Peel District Health Council, Ontario","Total, households",Percent,27.7
+"Halton-Peel District Health Council, Ontario",Renters,Percent,39.1
+"Halton-Peel District Health Council, Ontario",Owners,Percent,23.0
+"Waterloo-Wellington-Dufferin DHC, Ontario","Total, households",Percent,25.1
+"Waterloo-Wellington-Dufferin DHC, Ontario",Renters,Percent,40.7
+"Waterloo-Wellington-Dufferin DHC, Ontario",Owners,Percent,16.9
+"Hamilton-Wentworth DHC, Ontario","Total, households",Percent,28.5
+"Hamilton-Wentworth DHC, Ontario",Renters,Percent,46.8
+"Hamilton-Wentworth DHC, Ontario",Owners,Percent,17.6
+"Niagara District Health Council, Ontario","Total, households",Percent,25.1
+"Niagara District Health Council, Ontario",Renters,Percent,48.0
+"Niagara District Health Council, Ontario",Owners,Percent,15.9
+"Grand River DHC, Ontario","Total, households",Percent,24.4
+"Grand River DHC, Ontario",Renters,Percent,45.2
+"Grand River DHC, Ontario",Owners,Percent,16.4
+"Thames Valley DHC, Ontario","Total, households",Percent,26.9
+"Thames Valley DHC, Ontario",Renters,Percent,45.4
+"Thames Valley DHC, Ontario",Owners,Percent,16.1
+"Essex-Kent and Lambton DHC, Ontario","Total, households",Percent,22.7
+"Essex-Kent and Lambton DHC, Ontario",Renters,Percent,44.8
+"Essex-Kent and Lambton DHC, Ontario",Owners,Percent,13.4
+"Grey-Bruce-Huron and Perth DHC, Ontario","Total, households",Percent,22.3
+"Grey-Bruce-Huron and Perth DHC, Ontario",Renters,Percent,42.0
+"Grey-Bruce-Huron and Perth DHC, Ontario",Owners,Percent,15.0
+"Muskoka-Nipissing and Parry Sound DHC, Ontario","Total, households",Percent,27.4
+"Muskoka-Nipissing and Parry Sound DHC, Ontario",Renters,Percent,47.8
+"Muskoka-Nipissing and Parry Sound DHC, Ontario",Owners,Percent,19.0
+"Algoma-Cochrane-Manitoulin and Sudbury DHC, Ontario","Total, households",Percent,24.7
+"Algoma-Cochrane-Manitoulin and Sudbury DHC, Ontario",Renters,Percent,46.5
+"Algoma-Cochrane-Manitoulin and Sudbury DHC, Ontario",Owners,Percent,13.6
+"Northwestern Ontario DHC, Ontario","Total, households",Percent,19.1
+"Northwestern Ontario DHC, Ontario",Renters,Percent,39.2
+"Northwestern Ontario DHC, Ontario",Owners,Percent,11.4
+Ontario by Health Unit,"Total, households",Percent,28.0
+Ontario by Health Unit,Renters,Percent,44.2
+Ontario by Health Unit,Owners,Percent,18.9
+"Algoma Public Health Unit, Ontario","Total, households",Percent,24.5
+"Algoma Public Health Unit, Ontario",Renters,Percent,48.1
+"Algoma Public Health Unit, Ontario",Owners,Percent,13.4
+"Brant Public Health Unit, Ontario","Total, households",Percent,26.0
+"Brant Public Health Unit, Ontario",Renters,Percent,47.8
+"Brant Public Health Unit, Ontario",Owners,Percent,16.3
+"Durham Public Health Unit, Ontario","Total, households",Percent,26.5
+"Durham Public Health Unit, Ontario",Renters,Percent,43.3
+"Durham Public Health Unit, Ontario",Owners,Percent,21.1
+"Elgin-St Thomas Public Health Unit, Ontario","Total, households",Percent,23.7
+"Elgin-St Thomas Public Health Unit, Ontario",Renters,Percent,42.0
+"Elgin-St Thomas Public Health Unit, Ontario",Owners,Percent,16.1
+"Bruce-Grey-Owen Sound Public Health Unit, Ontario","Total, households",Percent,23.6
+"Bruce-Grey-Owen Sound Public Health Unit, Ontario",Renters,Percent,46.0
+"Bruce-Grey-Owen Sound Public Health Unit, Ontario",Owners,Percent,16.0
+"Haldimand-Norfolk Public Health Unit, Ontario","Total, households",Percent,22.5
+"Haldimand-Norfolk Public Health Unit, Ontario",Renters,Percent,41.3
+"Haldimand-Norfolk Public Health Unit, Ontario",Owners,Percent,16.5
+"Haliburton-Kawartha-Pine Ridge Public Health Unit, Ontario","Total, households",Percent,26.6
+"Haliburton-Kawartha-Pine Ridge Public Health Unit, Ontario",Renters,Percent,48.9
+"Haliburton-Kawartha-Pine Ridge Public Health Unit, Ontario",Owners,Percent,20.1
+"Halton Public Health Unit, Ontario","Total, households",Percent,22.7
+"Halton Public Health Unit, Ontario",Renters,Percent,37.9
+"Halton Public Health Unit, Ontario",Owners,Percent,17.6
+"Hamilton Public Health Unit, Ontario","Total, households",Percent,28.5
+"Hamilton Public Health Unit, Ontario",Renters,Percent,46.8
+"Hamilton Public Health Unit, Ontario",Owners,Percent,17.6
+"Hastings and Prince Edward Public Health Unit, Ontario","Total, households",Percent,27.5
+"Hastings and Prince Edward Public Health Unit, Ontario",Renters,Percent,48.3
+"Hastings and Prince Edward Public Health Unit, Ontario",Owners,Percent,18.0
+"Huron Public Health Unit, Ontario","Total, households",Percent,21.0
+"Huron Public Health Unit, Ontario",Renters,Percent,39.8
+"Huron Public Health Unit, Ontario",Owners,Percent,14.5
+"Kent-Chatham Public Health Unit, Ontario","Total, households",Percent,21.6
+"Kent-Chatham Public Health Unit, Ontario",Renters,Percent,42.0
+"Kent-Chatham Public Health Unit, Ontario",Owners,Percent,12.4
+"Kingston-Frontenac-Lennox and Addington Public Health Unit, Ontario","Total, households",Percent,28.2
+"Kingston-Frontenac-Lennox and Addington Public Health Unit, Ontario",Renters,Percent,47.7
+"Kingston-Frontenac-Lennox and Addington Public Health Unit, Ontario",Owners,Percent,17.1
+"Lambton Public Health Unit, Ontario","Total, households",Percent,21.1
+"Lambton Public Health Unit, Ontario",Renters,Percent,45.5
+"Lambton Public Health Unit, Ontario",Owners,Percent,12.2
+"Leeds-Grenville-Lanark Public Health Unit, Ontario","Total, households",Percent,23.3
+"Leeds-Grenville-Lanark Public Health Unit, Ontario",Renters,Percent,46.7
+"Leeds-Grenville-Lanark Public Health Unit, Ontario",Owners,Percent,15.2
+"Middlesex-London Public Health Unit, Ontario","Total, households",Percent,28.5
+"Middlesex-London Public Health Unit, Ontario",Renters,Percent,46.4
+"Middlesex-London Public Health Unit, Ontario",Owners,Percent,16.7
+"Muskoka-Parry Sound Public Health Unit, Ontario","Total, households",Percent,27.3
+"Muskoka-Parry Sound Public Health Unit, Ontario",Renters,Percent,49.2
+"Muskoka-Parry Sound Public Health Unit, Ontario",Owners,Percent,20.9
+"Niagara Public Health Unit, Ontario","Total, households",Percent,25.1
+"Niagara Public Health Unit, Ontario",Renters,Percent,48.0
+"Niagara Public Health Unit, Ontario",Owners,Percent,15.9
+"North Bay Public Health Unit, Ontario","Total, households",Percent,29.3
+"North Bay Public Health Unit, Ontario",Renters,Percent,47.9
+"North Bay Public Health Unit, Ontario",Owners,Percent,19.1
+"Northwestern Public Health Unit, Ontario","Total, households",Percent,16.9
+"Northwestern Public Health Unit, Ontario",Renters,Percent,36.5
+"Northwestern Public Health Unit, Ontario",Owners,Percent,10.3
+"Ottawa Public Health Unit, Ontario","Total, households",Percent,26.3
+"Ottawa Public Health Unit, Ontario",Renters,Percent,41.2
+"Ottawa Public Health Unit, Ontario",Owners,Percent,15.1
+"Oxford Public Health Unit, Ontario","Total, households",Percent,22.3
+"Oxford Public Health Unit, Ontario",Renters,Percent,41.9
+"Oxford Public Health Unit, Ontario",Owners,Percent,14.0
+"Peel Public Health Unit, Ontario","Total, households",Percent,29.9
+"Peel Public Health Unit, Ontario",Renters,Percent,39.5
+"Peel Public Health Unit, Ontario",Owners,Percent,25.5
+"Perth Public Health Unit, Ontario","Total, households",Percent,20.4
+"Perth Public Health Unit, Ontario",Renters,Percent,36.6
+"Perth Public Health Unit, Ontario",Owners,Percent,12.9
+"Peterborough Public Health Unit, Ontario","Total, households",Percent,28.2
+"Peterborough Public Health Unit, Ontario",Renters,Percent,53.8
+"Peterborough Public Health Unit, Ontario",Owners,Percent,18.0
+"Porcupine Public Health Unit, Ontario","Total, households",Percent,22.3
+"Porcupine Public Health Unit, Ontario",Renters,Percent,41.4
+"Porcupine Public Health Unit, Ontario",Owners,Percent,12.7
+"Renfrew Public Health Unit, Ontario","Total, households",Percent,21.1
+"Renfrew Public Health Unit, Ontario",Renters,Percent,40.0
+"Renfrew Public Health Unit, Ontario",Owners,Percent,13.8
+"Eastern Ontario Public Health Unit, Ontario","Total, households",Percent,26.7
+"Eastern Ontario Public Health Unit, Ontario",Renters,Percent,49.6
+"Eastern Ontario Public Health Unit, Ontario",Owners,Percent,17.0
+"Simcoe Public Health Unit, Ontario","Total, households",Percent,28.2
+"Simcoe Public Health Unit, Ontario",Renters,Percent,47.9
+"Simcoe Public Health Unit, Ontario",Owners,Percent,21.3
+"Sudbury Public Health Unit, Ontario","Total, households",Percent,25.8
+"Sudbury Public Health Unit, Ontario",Renters,Percent,47.8
+"Sudbury Public Health Unit, Ontario",Owners,Percent,14.1
+"Thunder Bay Public Health Unit, Ontario","Total, households",Percent,20.0
+"Thunder Bay Public Health Unit, Ontario",Renters,Percent,40.2
+"Thunder Bay Public Health Unit, Ontario",Owners,Percent,11.9
+"Timiskaming Public Health Unit, Ontario","Total, households",Percent,23.7
+"Timiskaming Public Health Unit, Ontario",Renters,Percent,45.4
+"Timiskaming Public Health Unit, Ontario",Owners,Percent,14.7
+"Waterloo Public Health Unit, Ontario","Total, households",Percent,25.3
+"Waterloo Public Health Unit, Ontario",Renters,Percent,41.3
+"Waterloo Public Health Unit, Ontario",Owners,Percent,15.9
+"Wellington-Dufferin-Guelph Public Health Unit, Ontario","Total, households",Percent,24.8
+"Wellington-Dufferin-Guelph Public Health Unit, Ontario",Renters,Percent,39.3
+"Wellington-Dufferin-Guelph Public Health Unit, Ontario",Owners,Percent,18.6
+"Windsor-Essex Public Health Unit, Ontario","Total, households",Percent,23.6
+"Windsor-Essex Public Health Unit, Ontario",Renters,Percent,45.5
+"Windsor-Essex Public Health Unit, Ontario",Owners,Percent,14.2
+"York Public Health Unit, Ontario","Total, households",Percent,28.2
+"York Public Health Unit, Ontario",Renters,Percent,41.7
+"York Public Health Unit, Ontario",Owners,Percent,25.2
+"Toronto Public Health Unit, Ontario","Total, households",Percent,34.7
+"Toronto Public Health Unit, Ontario",Renters,Percent,44.8
+"Toronto Public Health Unit, Ontario",Owners,Percent,23.5
